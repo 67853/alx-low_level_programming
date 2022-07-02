@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - Entry point
- * Description: prints the value of n as positive, or negative, or zero
- * return: (0) success
+ * main - Prints a random number and states whether
+ * it is positive, negative, or zero
+ * Return: (0) success
  */
 int main(void)
 {
